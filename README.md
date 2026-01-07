@@ -3,7 +3,7 @@
 
 Plan My Event
 
-Live Demo: https://planmyevent.vercel.app/
+Live Demo: https://pme-beta.vercel.app/
 
 A simple and modern event-planning platform where users can explore, compare, and book verified vendors. Designed with clean UI, smooth navigation, and a dual dashboard for Users and Vendors.
 
