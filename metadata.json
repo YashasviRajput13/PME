@@ -1,0 +1,7 @@
+{
+  "name": "Plan My Event (PME)",
+  "description": "A comprehensive event planning platform where users can plan events by budget and theme, and vendors can showcase their specialized services.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
